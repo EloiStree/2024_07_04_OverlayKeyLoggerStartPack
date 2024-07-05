@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.overlaykeyloggerstartpack",                              
+  "displayName": "Overlay Key Logger Start Pack",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Start pack to make stream app with a key logger to make action from keyboard.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_07_04_OverlayKeyLoggerStartPack.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
